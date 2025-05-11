@@ -29,7 +29,7 @@ A web-based Gym Management System built with **Django**, **Python**, **HTML**, a
 
 ### 1. Clone the repository
 (bash)
-git clone https://github.com/faith-nye/gym-management-system.git
+git clone https://github.com/faith-ny/gym-management-system.git
 cd gym-management-system
 
 2. Create a virtual environment (recommended)
